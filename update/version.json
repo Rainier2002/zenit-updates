@@ -1,0 +1,15 @@
+{
+  "version": "1.1.1",
+  "base_url": "https://rainier2002.github.io/zenit-updates/update",
+  "notas": "Fix dashboard v1.1.1",
+  "archivos": [
+    {
+      "ruta": "src/features/dashboard/services.py",
+      "sha256": "62547ff633df2e583cf1a4eeef72ace2446e5b2b667aae3bc6af8240803d6a74"
+    },
+    {
+      "ruta": "static/js/dashboard.js",
+      "sha256": "9fe639c3f4bbf806890c83342bdfd12f7a19768abfd4e4edd8b17c4eaada42d6"
+    }
+  ]
+}
